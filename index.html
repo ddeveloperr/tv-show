@@ -24,7 +24,7 @@
     <select class="form-control pull-right" ng-model="main.order" ng-options="order as order.title for order in main.orders"></select>
     <div class="clearfix"></div>
     <h3>Add a new TV Show</h3>
-    <form name="main.addForm" class="form">
+    <form name="main.addForm" class="form" ng-submit="main.addShow()">
         <div class="form-group">
             <label>Title</label>
             <input type="text" class="form-control" ng-model="main.new.title" required />
