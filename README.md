@@ -1,4 +1,6 @@
-# Building simple AngularJS! (Add a new TV Show, validate form...) 
-In this quick app I have a good working understand of many AngularJS concepts which allows you to build simple single page applications! I completed it in 60 minutes! 
-[Test DEMO] (http://ddeveloperr.github.io/Building_AngularJS_in_60_min/)
+## Project Details 
+
+In this Project I have created simple todo list where you can add a new TV Show. Here I have a good working understand of many AngularJS concepts which allows me to build simple single page applications! 
+
+###[LIVE EXAMPLE] (http://ddeveloperr.github.io/tv-show/)
 
